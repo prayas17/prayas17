@@ -108,51 +108,75 @@ OpenAI · Anthropic · Google Vertex AI · LangChain · LangGraph · Hugging Fac
 
 <table>
 <tr>
-<td>
-<a href="https://github.com/prayas17/rag-toolkit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=rag-toolkit&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="rag-toolkit"/>
-</a>
+<td width="50%" valign="top">
+
+#### 🧠 [rag-toolkit](https://github.com/prayas17/rag-toolkit)
+Production hybrid RAG library. Pluggable chunkers, embedders (BGE-M3, OpenAI), vector stores (Qdrant, in-memory), and cross-encoder reranking. Async-native, strict-typed.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Qdrant](https://img.shields.io/badge/-Qdrant-DC382D?style=flat-square) ![BGE--M3](https://img.shields.io/badge/-BGE--M3-FFD21E?style=flat-square) ![Async](https://img.shields.io/badge/-Async-6C63FF?style=flat-square)
+
 </td>
-<td>
-<a href="https://github.com/prayas17/langgraph-agent-starter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=langgraph-agent-starter&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="langgraph-agent-starter"/>
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/prayas17/support-triage-agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=support-triage-agent&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="support-triage-agent"/>
-</a>
-</td>
-<td>
-<a href="https://github.com/prayas17/invoice-extractor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=invoice-extractor&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="invoice-extractor"/>
-</a>
+<td width="50%" valign="top">
+
+#### 🤖 [langgraph-agent-starter](https://github.com/prayas17/langgraph-agent-starter)
+Clone-and-run multi-agent template. Router + specialists, tool loop, streaming, iteration cap. Fake-model tests so CI runs without API keys.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
 </td>
 </tr>
 <tr>
-<td>
-<a href="https://github.com/prayas17/portfolio-3d">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=portfolio-3d&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="portfolio-3d"/>
-</a>
+<td width="50%" valign="top">
+
+#### 🎫 [support-triage-agent](https://github.com/prayas17/support-triage-agent)
+Multi-agent customer-support triage: classify → specialist → quality-gate → auto-send or escalate. FastAPI webhook. Production shape, not a demo.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
 </td>
-<td>
-<a href="https://github.com/prayas17/pr-review-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=pr-review-bot&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="pr-review-bot"/>
-</a>
+<td width="50%" valign="top">
+
+#### 📄 [invoice-extractor](https://github.com/prayas17/invoice-extractor)
+LLM-powered invoice PDF → structured JSON. FastAPI service + CLI. Pydantic-validated schema with auto-reconcile guardrail.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square)
+
 </td>
 </tr>
 <tr>
-<td>
-<a href="https://github.com/prayas17/rag-eval-harness">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=rag-eval-harness&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="rag-eval-harness"/>
-</a>
+<td width="50%" valign="top">
+
+#### 🎨 [portfolio-3d](https://github.com/prayas17/portfolio-3d)
+3D animated portfolio in Next.js 14 + React Three Fiber + Framer Motion. Distort-material hero, scroll-linked nav, glassmorphic sections.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
 </td>
-<td>
-<a href="https://github.com/prayas17/sparrow-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=sparrow-api&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="sparrow-api"/>
-</a>
+<td width="50%" valign="top">
+
+#### 🤝 [pr-review-bot](https://github.com/prayas17/pr-review-bot)
+GitHub Action for LLM-powered PR review. Inline severity comments + APPROVE / COMMENT / REQUEST_CHANGES verdict. Supports OpenAI + Anthropic.
+
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 [rag-eval-harness](https://github.com/prayas17/rag-eval-harness)
+Small, dependency-light RAG evaluation. hit@k, MRR, NDCG, precision, recall + LLM faithfulness judge. Zero framework baggage.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Metrics](https://img.shields.io/badge/-Metrics-6C63FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐦 [sparrow-api](https://github.com/prayas17/sparrow-api)
+Contributor with **280+ commits** to Sparrow — next-gen API testing platform. Backend features, Sentry logging, feature dev at Techdome.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 </td>
 </tr>
 </table>
@@ -165,21 +189,23 @@ OpenAI · Anthropic · Google Vertex AI · LangChain · LangGraph · Hugging Fac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prayas17&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true&include_all_commits=true" height="180" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prayas17&theme=react&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=F75D7E&currStreakLabel=6C63FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" height="180" alt="streak" />
+<img src="https://github-readme-stats.hackclub.dev/api?username=prayas17&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" height="175" alt="stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prayas17&theme=react&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=F75D7E&currStreakLabel=6C63FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" height="175" alt="streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayas17&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff&langs_count=10" height="180" alt="top languages" />
-<img src="https://github-profile-trophy.vercel.app/?username=prayas17&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" height="180" alt="trophies" />
+<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=prayas17&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff&langs_count=10&cache_seconds=1800" height="175" alt="top languages" />
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prayas17&theme=react-dark&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/prayas17?label=Followers&style=flat-square&color=6C63FF&logo=github&labelColor=0d1117" alt="followers"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-13-6C63FF?style=flat-square&logo=github&labelColor=0d1117" alt="repos"/>
+  <img src="https://img.shields.io/badge/Tests%20across%20OSS-115%2B-6C63FF?style=flat-square&labelColor=0d1117" alt="tests"/>
+  <img src="https://img.shields.io/badge/CI-passing-brightgreen?style=flat-square&labelColor=0d1117" alt="ci"/>
+</p>
 
 ---
 
