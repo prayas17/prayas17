@@ -185,27 +185,46 @@ Contributor with **280+ commits** to Sparrow — next-gen API testing platform. 
 
 ---
 
-### 📊 &nbsp;GitHub Stats
+### 📊 &nbsp;By the Numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.hackclub.dev/api?username=prayas17&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" height="175" alt="stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayas17&theme=react&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=F75D7E&currStreakLabel=6C63FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" height="175" alt="streak" />
 
 </div>
 
-<div align="center">
+<br/>
 
-<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=prayas17&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff&langs_count=10&cache_seconds=1800" height="175" alt="top languages" />
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="220">
+<h2>13</h2>
+<sub>Public repos</sub>
+</td>
+<td align="center" width="220">
+<h2>7</h2>
+<sub>OSS libraries shipped</sub>
+</td>
+<td align="center" width="220">
+<h2>115+</h2>
+<sub>Tests across projects</sub>
+</td>
+<td align="center" width="220">
+<h2>280+</h2>
+<sub>Commits to Sparrow OSS</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/prayas17?label=Followers&style=flat-square&color=6C63FF&logo=github&labelColor=0d1117" alt="followers"/>
-  <img src="https://img.shields.io/badge/Public%20Repos-13-6C63FF?style=flat-square&logo=github&labelColor=0d1117" alt="repos"/>
-  <img src="https://img.shields.io/badge/Tests%20across%20OSS-115%2B-6C63FF?style=flat-square&labelColor=0d1117" alt="tests"/>
-  <img src="https://img.shields.io/badge/CI-passing-brightgreen?style=flat-square&labelColor=0d1117" alt="ci"/>
+  <img src="https://img.shields.io/github/followers/prayas17?label=Followers&style=for-the-badge&color=6C63FF&logo=github&labelColor=0d1117" alt="followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CI-passing_on_all-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="ci"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-RAG_%C2%B7_Agents_%C2%B7_LLM-6C63FF?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 </p>
+
+**Top languages** (by lines shipped this year): Python · TypeScript · JavaScript · Jupyter · HTML · CSS
 
 ---
 
