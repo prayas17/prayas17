@@ -109,8 +109,20 @@ OpenAI · Anthropic · Google Vertex AI · LangChain · LangGraph · Hugging Fac
 <table>
 <tr>
 <td>
-<a href="https://github.com/prayas17/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=portfolio&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="portfolio"/>
+<a href="https://github.com/prayas17/rag-toolkit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=rag-toolkit&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="rag-toolkit"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/prayas17/langgraph-agent-starter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=langgraph-agent-starter&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="langgraph-agent-starter"/>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/prayas17/rag-eval-harness">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=rag-eval-harness&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="rag-eval-harness"/>
 </a>
 </td>
 <td>
@@ -121,13 +133,13 @@ OpenAI · Anthropic · Google Vertex AI · LangChain · LangGraph · Hugging Fac
 </tr>
 <tr>
 <td>
-<a href="https://github.com/prayas17/emotion-music-recommender">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=emotion-music-recommender&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="emotion-music-recommender"/>
+<a href="https://github.com/prayas17/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=portfolio&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="portfolio"/>
 </a>
 </td>
 <td>
-<a href="https://github.com/prayas17/hate-speech-classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=hate-speech-classification&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="hate-speech-classification"/>
+<a href="https://github.com/prayas17/emotion-music-recommender">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=emotion-music-recommender&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="emotion-music-recommender"/>
 </a>
 </td>
 </tr>
