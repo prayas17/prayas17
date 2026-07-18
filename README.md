@@ -121,6 +121,30 @@ OpenAI · Anthropic · Google Vertex AI · LangChain · LangGraph · Hugging Fac
 </tr>
 <tr>
 <td>
+<a href="https://github.com/prayas17/support-triage-agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=support-triage-agent&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="support-triage-agent"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/prayas17/invoice-extractor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=invoice-extractor&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="invoice-extractor"/>
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/prayas17/portfolio-3d">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=portfolio-3d&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="portfolio-3d"/>
+</a>
+</td>
+<td>
+<a href="https://github.com/prayas17/pr-review-bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=pr-review-bot&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="pr-review-bot"/>
+</a>
+</td>
+</tr>
+<tr>
+<td>
 <a href="https://github.com/prayas17/rag-eval-harness">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=rag-eval-harness&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="rag-eval-harness"/>
 </a>
@@ -128,18 +152,6 @@ OpenAI · Anthropic · Google Vertex AI · LangChain · LangGraph · Hugging Fac
 <td>
 <a href="https://github.com/prayas17/sparrow-api">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=sparrow-api&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="sparrow-api"/>
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/prayas17/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=portfolio&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="portfolio"/>
-</a>
-</td>
-<td>
-<a href="https://github.com/prayas17/emotion-music-recommender">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prayas17&repo=emotion-music-recommender&theme=react&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" alt="emotion-music-recommender"/>
 </a>
 </td>
 </tr>
